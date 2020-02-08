@@ -21,3 +21,12 @@ body {
     position: relative;
 
 }
+div > p {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-top: 160px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px 
+}
